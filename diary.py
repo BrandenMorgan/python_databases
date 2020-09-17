@@ -5,7 +5,6 @@ import datetime
 import os
 import sys
 
-# peewee import comment
 from peewee import *
 
 db = SqliteDatabase('diary.db')
